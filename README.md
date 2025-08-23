@@ -17,16 +17,16 @@ cd Fsociety-JesterV2
 
 Install dependencies:
 pip install -r requirements.txt
-
-▶️ Run
+## ▶️ Run
 Start the simulator with:
 python JesterV2.py
 
-💻 Build EXE
+## 💻 Build EXE
 To build an executable file:
 pip install pyinstaller
 pyinstaller --onefile --noconsole JesterV2.py
 The .exe will appear in the dist/ folder.
+
 
 
 
