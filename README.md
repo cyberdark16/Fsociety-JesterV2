@@ -24,11 +24,10 @@ python JesterV2.py
 
 💻 Build EXE
 To build an executable file:
-
 pip install pyinstaller
 pyinstaller --onefile --noconsole JesterV2.py
-
 The .exe will appear in the dist/ folder.
+
 
 
 
