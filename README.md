@@ -11,3 +11,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/sanderlog/Fsociety-JesterV2.git
 cd Fsociety-JesterV2
 pip install -r requirements.txt
+
