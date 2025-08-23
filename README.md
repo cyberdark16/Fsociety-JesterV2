@@ -3,7 +3,7 @@
 ⚠️ **Disclaimer:**  
 This project is **for educational and fan purposes only**.  
 It does **NOT encrypt files** and does **NOT cause any harm**.  
-Inspired by *Mr. Robot*.
+Inspired by *Mr. Robot*. PASSWORD:(12345)
 
 ---
 
@@ -51,5 +51,6 @@ pyinstaller --onefile --noconsole --icon=icon.ico JesterV2.py
 
 ## 📜 License
 This project is for **educational and fan demonstration** purposes only.  
+
 
 
