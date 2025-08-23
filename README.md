@@ -1,7 +1,20 @@
-# 🎭 Fsociety JesterV2
+# 🎭 Fsociety Jester V2 (Fan Project)
 
-A fan-made project inspired by the Mr. Robot series.  
-⚠️ For educational and demonstration purposes only.  
+⚠️ **Disclaimer:**  
+This project is **for educational and fan purposes only**.  
+It does **NOT encrypt files** and does **NOT cause any harm**.  
+Inspired by *Mr. Robot*.
+
+---
+
+## 📂 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/Fsociety-JesterV2.git
+cd Fsociety-JesterV2
+  
 
 ---
 
@@ -49,3 +62,4 @@ pyinstaller --onefile --noconsole --icon=icon.ico JesterV2.py
 
 ## 📜 License
 This project is for **educational and fan demonstration** purposes only.  
+
