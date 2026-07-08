@@ -1,18 +1,18 @@
-# 🎭 Fsociety JesterV2
+#Fsociety JesterV2
 
-⚠️ **Disclaimer:**  
+ **Disclaimer:**  
 This project is **for educational and fan purposes only**.  
 It does **NOT encrypt files** and does **NOT cause any harm**.  
 Inspired by *Mr. Robot*. PASSWORD:(12345)
 
 ---
 
-## 📸 Screenshot
+##Screenshot
 ![Screenshot](screenshot.png)
 
 ---
 
-## 🔧 Installation
+##Installation
 Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/sanderlog/Fsociety-JesterV2.git
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run in Console
+##Run in Console
 Run the project with:
 ```bash
 python JesterV2.py
@@ -30,7 +30,7 @@ python JesterV2.py
 
 ---
 
-## ⚙️ Build Executable (EXE)
+##Build Executable (EXE)
 
 ### Simple EXE
 ```bash
@@ -49,7 +49,7 @@ pyinstaller --onefile --noconsole --icon=icon.ico JesterV2.py
 
 ---
 
-## 📜 License
+##License
 This project is for **educational and fan demonstration** purposes only.  
 
 
